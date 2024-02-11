@@ -1,3 +1,4 @@
-logan,border collie
+logan,dog 
 joe,chihuhua
 calvin,yorkie
+tom,saw
