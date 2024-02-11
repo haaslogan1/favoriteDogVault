@@ -17,7 +17,7 @@ macOS Sonoma 14.2.1
 
 Run the server:
 ```
-clang++ -o server server.cpp  -std=c++11
+clang++ -o bin/server server.cpp  -std=c++11
 ./server
 ```
 
@@ -25,7 +25,7 @@ clang++ -o server server.cpp  -std=c++11
 
 Run the client
 ```
-clang++ -o client client.cpp  -std=c++11
+clang++ -o bin/client client.cpp  -std=c++11
 ./client
 ```
 
